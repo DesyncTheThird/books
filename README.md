@@ -13,3 +13,7 @@
 
 ## Hatcher Algebraic Topology
 <img width=500 align="center" src="./hatcher.png">
+
+## Agda/Haskell
+<img width=500 align="center" src="./agda-haskell.png">
+<img width=500 align="center" src="./haskell-agda.png">
