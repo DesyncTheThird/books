@@ -1,4 +1,6 @@
 
+# My Book Collection
+
 ## Learn You a Haskell
 <img width=500 align="center" src="./learn you a haskell.png">
 
@@ -14,6 +16,8 @@
 ## Hatcher Algebraic Topology
 <img width=500 align="center" src="./hatcher.png">
 
-## Agda/Haskell
+# Miscellaneous
+
+## Agda/Haskell Logos
 <img width=500 align="center" src="./agda-haskell.png">
 <img width=500 align="center" src="./haskell-agda.png">
